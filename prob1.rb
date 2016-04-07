@@ -44,3 +44,4 @@ puts "the minimum value is #{min}"
 	
 p a.class
 
+# this solves the issue 1
